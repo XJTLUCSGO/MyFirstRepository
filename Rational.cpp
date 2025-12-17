@@ -1,4 +1,4 @@
-#include "Rational.h"
+#include "Rational.h"ffff
 #include <sstream> // Used in toString to convert numbers to strings
 #include <cstdlib> // For the abs function
 Rational::Rational()
@@ -109,3 +109,4 @@ string Rational::toString() const
 
   return ss.str();
 }
+
